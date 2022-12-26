@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <div>
       <h1>
-    Cool Community X
+   Welcome 2 Cool Community X
       </h1>
     </div>
   );
