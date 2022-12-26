@@ -3,7 +3,12 @@ import React from "react";
 const Footer = () => {
   return (
     <>
-       <p>Copyright @ CoolCommunityX</p>
+    <footer className="footer footer-center p-4 bg-base-300 text-base-content">
+  <div>
+  <p>Copyright @ CoolCommunityX</p>
+  </div>
+</footer>
+       
         
         
     </>
