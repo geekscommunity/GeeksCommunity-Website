@@ -1,13 +1,13 @@
 import React from "react";
   
-const Join = () => {
+const Contact = () => {
   return (
     <div>
       <h1>
-   Join Cool Community X
+   Contact us Cool Community X
       </h1>
     </div>
   );
 };
   
-export default Join;
+export default Contact;

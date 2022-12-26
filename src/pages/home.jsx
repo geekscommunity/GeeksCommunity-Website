@@ -1,13 +1,13 @@
 import React from "react";
   
-const Join = () => {
+const Home = () => {
   return (
     <div>
       <h1>
-   Join Cool Community X
+    Cool Community X
       </h1>
     </div>
   );
 };
   
-export default Join;
+export default Home;
