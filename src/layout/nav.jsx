@@ -4,7 +4,6 @@ import { Link } from "react-router-dom";
 const Nav = () => {
   return (
     <>
-
 <div className="navbar bg-base-300 shadow">
   <div className="navbar-start">
     <div className="dropdown">
@@ -30,14 +29,8 @@ const Nav = () => {
   <div className="navbar-end">
     <a className="btn" href="https://github.com/coolcommunityx">Get started</a>
   </div>
-</div>
-      
-         
-          
-         
-        
-        
-    </>
+</div> 
+</>
   );
 };
   
