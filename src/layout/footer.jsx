@@ -8,10 +8,7 @@ const Footer = () => {
   <p>Copyright @ CoolCommunityX</p>
   </div>
 </footer>
-       
-        
-        
-    </>
+     </>
   );
 };
   
