@@ -12,12 +12,14 @@ function App() {
 return (
     <Router>
     <Nav />
+    <div className="pt-16">
     <Routes>
         <Route exact path='/'  element={<Home />} />
         <Route path='/join' element={<Join/>} />
         <Route path='/contact' element={<Contact/>} />
         
     </Routes>
+    </div>
     <Footer />
     </Router>
 );
