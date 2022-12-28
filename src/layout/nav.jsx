@@ -5,7 +5,7 @@ const Nav = () => {
   return (
     <>
 
-<div className="navbar z-50	 bg-base-300 shadow fixed">
+<div className="navbar z-50	 bg-base-300 shadow-xl fixed">
   <div className="navbar-start">
     <div className="dropdown">
       <label tabIndex={0} className="btn btn-ghost btn-circle">
@@ -25,10 +25,10 @@ const Nav = () => {
     </div>
   </div>
   <div className="navbar-center">
-  <Link to="/"    className="text-xl">Cool Community X </Link>
+  <Link to="/"    className="text-xl text-white">Geeks CommunitY</Link>
   </div>
   <div className="navbar-end">
-    <a className="btn" href="https://github.com/coolcommunityx">Get started</a>
+    <a className="btn" href="https://github.com/geekscommunity">Get started</a>
   </div>
 </div>
       
