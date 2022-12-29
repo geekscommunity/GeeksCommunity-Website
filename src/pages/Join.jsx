@@ -13,11 +13,10 @@ const Join = () => {
         <p className="py-6 text-[1/2]xl sm:text-2xl"> To boost your skills Geeks Community organises various events to participate in and earn cool Badges .  </p> 
 
         <div className=" btn-group-horizontal ">
-        <Link to="/"  >  <button className="btn  mr-4 glass gap-2 bg-success text-white rounded-xl">
-   Home</button> </Link>
-   <Link to="/events" >
+        
+   <a href="https://github.com/geekscommunity/.github/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">
   <button className="btn  gap-2 bg-primary ml-4 glass text-white rounded-xl">
-   Events</button> </Link>
+Join Now </button> </a>
 </div>
 
 
