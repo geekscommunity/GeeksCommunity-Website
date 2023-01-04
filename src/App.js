@@ -7,7 +7,7 @@ import Nav from './layout/nav';
 import Footer from './layout/footer'; 
 import Join from './pages/Join';
 import Contact from './pages/contact';
-  
+import Compiler from './compiler/compiler.js';
 function App() {
 return (
     <Router>
@@ -17,7 +17,7 @@ return (
         <Route exact path='/'  element={<Home />} />
         <Route path='/join' element={<Join/>} />
         <Route path='/contact' element={<Contact/>} />
-        
+         <Route path='/compiler' element={<Compiler/>} />
     </Routes>
     </div>
     <Footer />
