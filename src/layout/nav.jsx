@@ -5,7 +5,7 @@ const Nav = () => {
   return (
     <>
 
-<div className="navbar z-50	 bg-base-300 shadow-xl fixed">
+<div className="navbar z-50	 nav bg-base-300 shadow-xl fixed">
   <div className="navbar-start">
     <div className="dropdown">
       <label tabIndex={0} className="btn btn-ghost btn-circle">
