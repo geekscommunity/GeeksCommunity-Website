@@ -28,7 +28,7 @@ const Nav = () => {
     </div>
   </div>
   <div className="navbar-center">
-  <Link to="/"    className="text-xl text-white">Geeks CommunitY</Link>
+  <Link to="/"    className="text-sm text-white">Geeks Community</Link>
   </div>
   <div className="navbar-end">
     <a className="btn" href="https://github.com/geekscommunity">Get started</a>
