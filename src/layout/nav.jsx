@@ -31,7 +31,7 @@ const Nav = () => {
   <Link to="/"    className="text-sm text-white">Geeks Community</Link>
   </div>
   <div className="navbar-end">
-    <a className="btn" href="https://github.com/geekscommunity">Get started</a>
+    <a className="btn h-3 w-12" href="https://github.com/geekscommunity">Get started</a>
   </div>
 </div>
       
